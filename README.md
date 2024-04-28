@@ -16,12 +16,13 @@ This repository contains a simple Todo application built with React and Next.js.
 - Mark tasks as completed
 - Delete tasks
 - Filter tasks based on completion status (All, Active, Completed)
+- All todo data save in your browser local storage (mungkin akan di update ke simpan di database nanti :) )
 
 ### Tech Stack
 
 - **React**: Frontend library for building user interfaces.
 - **Next.js**: React framework for server-rendered applications.
-- **React Hooks**: Use of `useState` and `useEffect` for state management and side effects.
+- **React Hooks**: Use of `useState` and `useEffect` for state management and side effects `useCalback` etc.
 
 ---
 
@@ -38,4 +39,43 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   [git clone https://github.com/your-username/todo-app.git](https://github.com/HCK42MRX/TodoProject-backToBasic.git)
+   ```
+   
+2. Navigate into the project directory:
+   
+   ```bash
+   cd TodoProject-backToBasic
+   ```
+
+3. Install dependencies:
+   
+   ```bash
+   npm install
+   ```
+
+### Installation
+
+1. Start the development server:
+   
+   ```bash
+   npm run dev
+   ```
+
+2. Open your browser and visit http://localhost:5173 to view the Todo application.
+
+### Project Structure
+
+- /components: Contains React components for different parts of the application.
+- /pages: Next.js pages representing different routes of the application.
+- /utils: Utility functions used within the application.
+
+### Contribution
+
+Contributions are welcome! If you have suggestions, improvements, or new features to propose, please open an issue or submit a pull request.
+
+### Acknowledgements
+
+- [React](https://reactjs.org/)
+- [Hooks in React](https://reactjs.org/docs/hooks-intro.html)
+   

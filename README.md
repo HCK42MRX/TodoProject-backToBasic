@@ -64,18 +64,20 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2. Open your browser and visit http://localhost:5173 to view the Todo application.
 
-### Project Structure
+## Project Structure
 
 - /components: Contains React components for different parts of the application.
 - /pages: Next.js pages representing different routes of the application.
 - /utils: Utility functions used within the application.
 
-### Contribution
+## Contribution
 
 Contributions are welcome! If you have suggestions, improvements, or new features to propose, please open an issue or submit a pull request.
 
-### Acknowledgements
+## Acknowledgements
 
 - [React](https://reactjs.org/)
 - [Hooks in React](https://reactjs.org/docs/hooks-intro.html)
+
+Thank You :)
    

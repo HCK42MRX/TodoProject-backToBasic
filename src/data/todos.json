@@ -1,0 +1,22 @@
+[
+  {
+      "title": "Belanja Bahan Makanan",
+      "description": "Pergi ke supermarket dan beli sayuran, daging, dan buah-buahan."
+  },
+  {
+      "title": "Mengerjakan Tugas Kuliah",
+      "description": "Selesaikan tugas pemrograman dan bacaan minggu ini."
+  },
+  {
+      "title": "Lakukan Olahraga Rutin",
+      "description": "Lari selama 30 menit di taman setiap hari."
+  },
+  {
+      "title": "Buat Rencana Liburan",
+      "description": "Tentukan destinasi liburan dan pesan tiket perjalanan."
+  },
+  {
+      "title": "Periksa Kesehatan Rutin",
+      "description": "Jadwalkan pemeriksaan kesehatan tahunan di rumah sakit."
+  }
+]

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  color: white;
+  background-color: #14213D;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 30px 20px;
+}
+
+.input-field{
+  @apply w-[500px] rounded-lg py-3 px-2 text-black focus:outline-none
+}
+
+/* Condition for max Word */
+
+.over-limit{
+  @apply text-right text-red-500 mt-2
+}
+
+.under-limit{
+  @apply text-right text-white mt-2
+}
+
+/* Condition for max Word */
+
